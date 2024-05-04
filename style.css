@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NagROssean - Serveur Privé Ragnarok Online</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+            margin-bottom: 20px;
+        }
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+        .server-info {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+        .server-info h2 {
+            color: #4CAF50;
+            margin-bottom: 15px;
+        }
+        .server-info p {
+            color: #777;
+            margin-bottom: 10px;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        a:hover {
+            color: #2E8B57;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>NagROssean - Serveur Privé Ragnarok Online</h1>
+        <p>Bienvenue sur NagROssean, un serveur privé de Ragnarok Online où vous pouvez vivre des aventures palpitantes dans le monde de Rune Midgard ! Rejoignez-nous dès maintenant et explorez des terres mystérieuses, affrontez de puissants monstres et forgez des amitiés durables avec d'autres aventuriers.</p>
+        
+        <div class="server-info">
+            <h2>Informations sur le serveur</h2>
+            <p><strong>Nom du serveur :</strong> NagROssean</p>
+            <p><strong>Type de serveur :</strong> Privé</p>
+            <p><strong>Version :</strong> Ragnarok Online</p>
+            <p><strong>Langue :</strong> Français</p>
+            <p><strong>Site Web :</strong> <a href="http://www.nagrossean-ro.com">www.nagrossean-ro.com</a></p>
+            <p><strong>Discord :</strong> <a href="https://discord.gg/nagrossean">Discord NagROssean</a></p>
+        </div>
+    </div>
+</body>
+</html>
